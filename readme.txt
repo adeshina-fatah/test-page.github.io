@@ -14,6 +14,8 @@
 <p>Emegerncy Fix</p>
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
+<p>1st modification made directly from github console</p>
+
 
 </body>
 </html>
