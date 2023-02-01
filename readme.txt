@@ -11,6 +11,7 @@
 <p>This is the first file in my new Git Repo.</p>
 <p>A new line in our file!</p>
 <p>modification to master branch directly from github</p>
+<p>2nd modification to master branch directly from github</p>
 
 <p>Emegerncy Fix</p>
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
